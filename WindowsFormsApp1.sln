@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{1FE8F58B-ED1E-45C5-9AFD-340FDB7ED65A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Maptone", "Maptone\Maptone.vdproj", "{62E4257D-920B-4F19-AA98-D5DD529B34C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE8F58B-ED1E-45C5-9AFD-340FDB7ED65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE8F58B-ED1E-45C5-9AFD-340FDB7ED65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE8F58B-ED1E-45C5-9AFD-340FDB7ED65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE8F58B-ED1E-45C5-9AFD-340FDB7ED65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E4257D-920B-4F19-AA98-D5DD529B34C1}.Debug|Any CPU.ActiveCfg = Debug
+		{62E4257D-920B-4F19-AA98-D5DD529B34C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99322A31-3B54-45D7-9208-15C36EAE60CB}
+	EndGlobalSection
+EndGlobal
